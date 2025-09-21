@@ -3,7 +3,7 @@
     <title>Sehne</title>
     <link href="https://sednaoui.github.io/vanari/feed.xml" rel="self" />
     <link href="https://sednaoui.github.io/vanari" />
-    <updated>2025-09-21T16:42:07+02:00</updated>
+    <updated>2025-09-21T16:52:03+02:00</updated>
     <author>
         <name>Sehne EARN</name>
     </author>
@@ -18,14 +18,10 @@
         <id>https://sednaoui.github.io/vanari/vanari-2.html</id>
 
         <updated>2025-09-21T16:14:58+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello World
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>Hello World</p>
+                <div class="post__iframe"><iframe loading="lazy" style="width: 100%; height: 80vh; border: 0;" src="/media/files/VANARI.pdf" title="Comic PDF"></iframe></div>
             ]]>
         </content>
     </entry>

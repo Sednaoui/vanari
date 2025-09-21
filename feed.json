@@ -13,15 +13,14 @@
             "id": "https://sednaoui.github.io/vanari/vanari-2.html",
             "url": "https://sednaoui.github.io/vanari/vanari-2.html",
             "title": "VANARI",
-            "summary": "Hello World",
-            "content_html": "<p>Hello World</p>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" style=\"width: 100%; height: 80vh; border: 0;\" src=\"/media/files/VANARI.pdf\" title=\"Comic PDF\"></iframe></div>",
             "author": {
                 "name": "Sehne EARN"
             },
             "tags": [
             ],
             "date_published": "2025-09-21T16:14:58+02:00",
-            "date_modified": "2025-09-21T16:42:07+02:00"
+            "date_modified": "2025-09-21T16:52:03+02:00"
         }
     ]
 }
