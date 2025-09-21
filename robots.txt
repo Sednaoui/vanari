@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sednaoui.github.io/vanari/sitemap.xml
